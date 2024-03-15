@@ -1,5 +1,5 @@
-1.Run the command ==> npm install
-2.And then ==>  npm start
+Run the command ==> npm install
+And then ==>  npm start
 >>> After metro bundler gets started use below commands
 >>
 >>
