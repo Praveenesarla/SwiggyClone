@@ -1,6 +1,8 @@
->>> npm install
->>> npm start
+1.Run the command ==> npm install
+2.And then ==>  npm start
 >>> After metro bundler gets started use below commands
+>>
+>>
 >>> Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
 
 › Using Expo Go
